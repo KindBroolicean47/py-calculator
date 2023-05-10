@@ -1,0 +1,7 @@
+setup.py
+pycalculator.egg-info/PKG-INFO
+pycalculator.egg-info/SOURCES.txt
+pycalculator.egg-info/dependency_links.txt
+pycalculator.egg-info/entry_points.txt
+pycalculator.egg-info/requires.txt
+pycalculator.egg-info/top_level.txt

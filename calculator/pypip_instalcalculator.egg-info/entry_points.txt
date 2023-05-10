@@ -1,0 +1,3 @@
+[console_scripts]
+pycal = pycalculator.__main__:main
+
