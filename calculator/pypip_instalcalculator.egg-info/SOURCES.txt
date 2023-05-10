@@ -1,0 +1,7 @@
+setup.py
+pypip_instalcalculator.egg-info/PKG-INFO
+pypip_instalcalculator.egg-info/SOURCES.txt
+pypip_instalcalculator.egg-info/dependency_links.txt
+pypip_instalcalculator.egg-info/entry_points.txt
+pypip_instalcalculator.egg-info/requires.txt
+pypip_instalcalculator.egg-info/top_level.txt
